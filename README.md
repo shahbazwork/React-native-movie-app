@@ -3,7 +3,7 @@
     <a href="https://www.youtube.com/watch?v=f8Z9JyB2EIE" target="_blank">
       <img src="assets/readme/hero.webp" alt="Project Banner">
     </a>
-  <br />
+  <br /> <br />
 
   <div>
     <img src="https://img.shields.io/badge/-React_Native-black?style=for-the-badge&logoColor=white&logo=react&color=61DAFB" alt="React Native" />
